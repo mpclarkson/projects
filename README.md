@@ -8,4 +8,5 @@ Here's a list of companies and projects I have worked on:
 * [Hilenium App](https://app.hilenium.com/) - No longer in active development but it's still being used by a few clients. Built with Symfony, Redis, Algolia and MySQL.
 * Hilenium iOS App - No longer maintained. Written in Swift. I am particularly proud of this app... I love Swift.
 * [Pelofy](https://pelofy.com) - Ride planning application for cyclists. We released a well received beta and had thousands of registrations, but we quickly realised we'd be poor forever trying to complete with FB :(
+* [Foher](https://foher.co) - I occasionally help the lovely girls who run this triathlon, cycling, running and swimming apparel brand.
 
